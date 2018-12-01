@@ -1,0 +1,3 @@
+# Battleship (Python 3.6 Edition)
+
+## just contact me if you don't understand the code or something...
