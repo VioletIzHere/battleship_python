@@ -1,3 +1,3 @@
 # Battleship (Python 3.6 Edition)
 
-## just contact me if you don't understand the code or something...
+### click on "hello.py" above to get the code btw
